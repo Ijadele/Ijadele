@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ijadele
-- 👀 I’m interested in ...web design
-- 🌱 I’m currently learning ... HTML,CSS
+- 👀 I’m interested in ...Frontend web development
+- 🌱 I’m currently learning ... HTML,CSS and JavaScript
 - 💞️ I’m looking to collaborate on ... making solutions
 - 📫 How to reach me ...via my email opeyemiijadele@gmail.com
 
